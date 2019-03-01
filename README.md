@@ -1,103 +1,70 @@
-# BuzzConf Call for Presentations
-![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png)
+# Zruput Call for Presentations
 
 - [English](#call-for-presentations)
 - [Spanish](#convocatoria-para-la-presentación-de-charlas)
 
-**To submit your talk proposal please complete the following form:**
+Zruput is a conference on Telecommunications.
 
-https://goo.gl/forms/TWe0DO7wKRRnAf4E2
+It will take place on Friday 14th of June in Buenos Aires, Argentina. 
 
-BuzzConf is a conference by developers for developers thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
+The venue is called Ciudad Cultural Konex, and it is located in Sarmiento 3131.
 
-The conference will take place **Thursday 13th and Friday 14th of June 2019 in Buenos Aires, Argentina**. The conference will be hosted at the Ciudad Cultural Konex (Sarmiento 3131):
 ![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
 
-Areas of particular interest to the conference include:
-- programming languages design
-- functional programming
-- distributed data
-- machine learning
-- big data
-- profiling/debugging
-- embedded systems
-- the most modern tools to deal with the world's complexity
+# Tickets
 
+Buy your ticket at [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-57829836598).
 
-## Confirmed Speakers
-- Philip Wadler
+# Format
 
-![Philip Wadler](https://cdn.evbuc.com/eventlogos/238610471/philipwadlerbuzzconf.png)
-- Phil Hagelberg
-![Phil Hagelberg](https://cdn.evbuc.com/eventlogos/238610471/philhagelbergbuzzconf.png)
-- Johanna Faliero
-![Johanna Faliero](https://cdn.evbuc.com/eventlogos/238610471/johannacaterinafalierobuzzconf.png)
-- Osvaldo Martin
-![Osvaldo Martin](https://cdn.evbuc.com/eventlogos/238610471/osvaldomartinbuzzconf.png)
+Standard talks: 30 minutes long
+Lightning talks: 10 minutes  long
 
-## Initial offer tickets
+# Deadlines
 
-Tickets are available at [eventbrite](https://buzzconf2019.eventbrite.com.ar/)
+Call for presentations closes: April 1st, 2019
+Speakers notified and program announced: April 15th, 2019
 
-## Format
-
-Each accepted talk will get a 30 minute talk slot.
-
-## Deadlines
-
-Call for presentations closes: March 1st, 2019
-
-Speakers notified and program announced: March 15th, 2019
-
-## Admission and Travel
+# Admission and Travel
 
 Speakers will receive free admission to BuzzConf.
 We are striving to provide some form of travel grant to assist with the costs of attending. We’ll post details here once a budget is finalized.
 
-## Code of Conduct
+# Code of Conduct
 
 Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the conference.
- 
+
 
 ---
 
 ## Convocatoria para la presentación de charlas
 
-**Para enviar tu propuesta de charla, completá el siguiente formulario:**
+Zruput es una conferencia de Telecomunicaciones.
 
-https://goo.gl/forms/TWe0DO7wKRRnAf4E2
+Se va a llevar a cabo el Viernes 14 de Junio en Buenos Aires, Argentina.
 
-BuzzConf es una conferencia hecha por desarrolladores para desarolladores, que explora los nuevos horizontes de la informática tale como la programación funcional, los sistemas distribuidos, big data, machine learning y otras áreas interdisciplinarias y los acerca a un público más amplio.
+El espacio donde tendrá lugar es Ciudad Cultural Konex, ubicado en Sarmiento 3131.
 
-La conferencia tendrá lugar el **Jueves 13 y Viernes 14 de Junio 2019 en Buenos Aires, Argentina**. La conferencia se realizará en la Ciudad Cultural Konex (Sarmiento 3131):
 ![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
 
-Las áreas de particular interés para la conferencia incluyen, pero no están limitadas a:
-- diseño de lenguajes de programación
-- programación funcional
-- datos distribuidos
-- machine learning
-- big data
-- profiling / debugging
-- sistemas embebidos
-- herramientas modernas para hacer frente a la complejidad del mundo
 
-## Entradas iniciales
+## Entradas 
 
-Vas a poder comprar las entradas a través de [eventbrite](hhttps://buzzconf2019.eventbrite.com.ar/).
+Comprá tu entrada en [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-57829836598).
 
 ## Formato
 
-Cada charla aceptada deberá durar 30 minutos.
+Charla estándar: 30 minutos
+Charla relámpago: 10 minutos
 
 ## Plazos
 
-La convocatoria para presentaciones cierra: 1 de Marzo 2019
-Los oradores seleccionados serán notificados y el programa será: 15 de Marzo 2019
+La convocatoria para presentaciones cierra: 1 de Abril 2019
+Los oradores seleccionados serán notificados y el programa será publicado: 15 de Abril 2019
 
 ## Admisión y viajes
 
-Los oradores recibirán entrada gratuita a BuzzConf.
+Los oradores recibirán entrada gratuita a Zruput.
 
 Nos estamos esforzando para proporcionar alguna forma de subvención para ayudar con los costos de asistencia. Publicaremos los detalles aquí una vez que se finalice el presupuesto.
 
