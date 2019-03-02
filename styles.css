@@ -40,9 +40,8 @@
 }
 
 body {
-  background-color: #02053f;
-  background-image: url(./images/bg-pattern.png?c32a8f4a9e2043bd3403e25d65633fbd);
-  background-repeat: repeat;
+  background-color: #442178;
+
   background-attachment: fixed;
   color: #fff;
   font-family: "Circular Std", sans-serif;
@@ -97,7 +96,7 @@ body {
 }
 
 #hero .small-cta > a:hover {
-  background: #00ccce;
+  background: #a34fc6;
 }
 
 #hero .small-cta > span {
@@ -107,8 +106,22 @@ body {
 
 .big-text {
   font-size: 100px;
-  color: #fff;
+  color: #6e7575;
   font-weight: 900;
+}
+
+.slogan-text {
+  font-size: 20px;
+  color: #6e7575;
+  font-weight: 300;
+  padding-left: 400px;
+}
+
+.scope-text {
+  font-size: 30px;
+  color: #6e7575;
+  font-weight: 400;
+  padding-top: 20px;
 }
 
 .section-title {
@@ -140,7 +153,7 @@ body {
 
 
 .conf-btn {
-  background: #00ccce;
+  background: #a34fc6;
   color: #fff;
   text-decoration: none;
   font-size: 14px;
@@ -232,7 +245,7 @@ footer,
 }
 
 .hall {
-    background-color: #00ccce;
+    background-color: #a34fc6;
     margin: 20px;
     text-align: center;
     min-height: 340px;
@@ -348,7 +361,7 @@ svg.icon.icon-right-arrow {
 }
 
 .day-one {
-  background-image: url(./images/ufo.png?7d539baef6583c3aed7e55ca7c2b7e10);
+  //background-image: url(./images/ufo.png?7d539baef6583c3aed7e55ca7c2b7e10);
   background-repeat: no-repeat;
   background-position: top left;
   background-size: contain;
