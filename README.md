@@ -1,10 +1,6 @@
 # Zruput
 
-Digital Communicactions Conference.
-
-It will take place on Friday 14th of June in Buenos Aires, Argentina.
-
-The venue is called Ciudad Cultural Konex, and it is located in Sarmiento 3131.
+Zruput is a Digital Communicactions Conference that will take place on Friday 14th of June in Buenos Aires, Argentina, specifically in Ciudad Cultural Konex, Sarmiento 3131.
 
 ![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
 
@@ -12,11 +8,7 @@ Buy your ticket at [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-5
 
 ## About
 
-Zruput is a space for professionals, researchers, entrepeneurs and students
-related with this topics:
-
-
-### Topics of interest
+Zruput is a space for professionals, researchers, entrepeneurs and students who are interested in  these topics:
 
 * Software Defined Radio
 * Satellite Communications
@@ -75,7 +67,7 @@ high volume download of data.
 
 ## Admission and Travel
 
-* Speakers will receive free admission to BuzzConf.
+* Speakers will receive free admission to BuzzConf and Zruput.
 * We are striving to provide some form of travel grant to assist with the costs of attending. We’ll post details here once a budget is finalized.
 
 
