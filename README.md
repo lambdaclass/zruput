@@ -34,7 +34,7 @@ Zruput is a space for professionals, researchers, entrepeneurs and students who 
 He will talk about the challenges of closing the digital gap
 with an open/libre hardware router.
 
-[SAn](images/speakers/spiccinini.jpg)
+![SAn](images/speakers/spiccinini.jpg)
 
 
 ### Santiago Tempone, from Skyloom
@@ -43,7 +43,7 @@ He will talk about how [Skyloom](www.skyloom.co) is developing
 an Optical Communications satellite constellation for
 very high throughput spaceborne networks.
 
-[Santi](images/speakers/stempone.jpg)
+![Santi](images/speakers/stempone.jpg)
 
 
 ### Francisco Albani, from Satellogic
@@ -51,7 +51,7 @@ very high throughput spaceborne networks.
 He will talk about how to design a LEO satellite link for
 high volume download of data.
 
-[Fran](images/speakers/falbani.jpg)
+![Fran](images/speakers/falbani.jpg)
 
 
 ## Format
