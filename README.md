@@ -6,7 +6,20 @@ Zruput is a Digital Communicactions Conference that will take place on Friday 14
 
 Buy your ticket at [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-57829836598).
 
-## About
+## Purpose
+
+Technology advances allowed many disciplines tangentially relatad to Digital Communications
+to be linked directly.
+Nowadays, the majority of the projects of this field demands articulation of workers,
+researchers, entrepreneurs and students of:
+
+* RF Hardware and antennas design.
+* Modern software practices: VCS, CI, TDD, containers, etc.
+* Communication protocols.
+* Digital processing architectures, like FPGA.
+* EMI
+* Signal digital processing, modulation and codification.
+* Embeded systems design.
 
 Zruput is a space for professionals, researchers, entrepeneurs and students who are interested in  these topics:
 
@@ -20,7 +33,6 @@ Zruput is a space for professionals, researchers, entrepeneurs and students who 
 * Cognitive Radio
 * RF & Antennas
 * Fiber optics
-* EMI
 * Signal classification
 * Digital Broadcasting
 * Modulation and Codification Schemes
