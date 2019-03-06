@@ -25,6 +25,7 @@ Zruput is a space for professionals, researchers, entrepreneurs and students who
 
 * Software Defined Radio
 * Satellite Communications
+* LPWAN platforms and technologies
 * Mesh networks
 * IoT
 * Electromagnetic Spectrum Ecosystem
