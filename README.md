@@ -8,7 +8,7 @@ Buy your ticket at [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-5
 
 ## Purpose
 
-Technology advances allowed many disciplines tangentially relatad to Digital Communications
+Technology advances have allowed many disciplines tangentially related to Digital Communications
 to be linked directly.
 Nowadays, the majority of the projects of this field demands articulation of workers,
 researchers, entrepreneurs and students of:
@@ -19,9 +19,9 @@ researchers, entrepreneurs and students of:
 * Digital processing architectures, like FPGA.
 * EMI
 * Signal digital processing, modulation and codification.
-* Embeded systems design.
+* Embedded systems design.
 
-Zruput is a space for professionals, researchers, entrepeneurs and students who are interested in  these topics:
+Zruput is a space for professionals, researchers, entrepreneurs and students who are interested in  these topics:
 
 * Software Defined Radio
 * Satellite Communications
