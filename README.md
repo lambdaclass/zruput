@@ -8,7 +8,7 @@ Buy your ticket at [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-5
 
 ## Purpose
 
-Technology advances allowed many disciplines tangentially related to Digital Communications
+Technology advances have allowed many disciplines tangentially related to Digital Communications
 to be linked directly.
 Nowadays, the majority of the projects of this field demands articulation of workers,
 researchers, entrepreneurs and students of:
