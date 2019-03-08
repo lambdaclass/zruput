@@ -47,7 +47,7 @@ Zruput is a space for professionals, researchers, entrepreneurs and students who
 He will talk about the challenges of closing the digital gap
 with an open/libre hardware router.
 
-![SAn](images/speaker/spiccinini.jpg)
+![Santiago Piccinini](images/speaker/spiccinini.jpg)
 
 
 ### Santiago Tempone, from Skyloom
@@ -56,7 +56,7 @@ He will talk about how [Skyloom](www.skyloom.co) is developing
 an Optical Communications satellite constellation for
 very high throughput spaceborne networks.
 
-![Santi](images/speaker/stempone.jpg)
+![Santiago Tempone](images/speaker/stempone.jpg)
 
 
 ### Francisco Albani, from Satellogic
@@ -64,7 +64,14 @@ very high throughput spaceborne networks.
 He will talk about how to design a LEO satellite link for
 high volume download of data.
 
-![Fran](images/speaker/falbani.jpg)
+![Francisco Albani](images/speaker/falbani.jpg)
+
+## Sebastián García Marra, Co-Founder of LESS
+
+IoT: State of the art, challenges and what nobody tells you about working with the Internet of Things.
+
+![Sebastián García Marra](images/speaker/sgmarra.jpg)
+
 
 
 ## Format
