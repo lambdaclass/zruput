@@ -41,7 +41,7 @@
 
 body {
   background-color: #2E204C;
-  background-image: url(./images/bg-pattern.png?c32a8f4a9e2043bd3403e25d65633fbd);
+  //background-image: url(./images/bg-pattern.png?c32a8f4a9e2043bd3403e25d65633fbd);
   background-repeat: repeat;
   background-attachment: fixed;
   color: #fff;
@@ -49,7 +49,7 @@ body {
 }
 
 #hero {
-    min-height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -58,10 +58,9 @@ body {
   text-align: center;
 }
 .awesome-bg{
-     background-image: url(./images/base.png);
-      background-size: contain;
+  background-image: url(./images/base.png);
+  background-size: contain;
   background-repeat: no-repeat;
-     
 }
 
 #hero > * {
@@ -113,6 +112,19 @@ body {
   font-size: 100px;
   color: #513C6E;
   font-weight: 900;
+}
+
+.purpose-text {
+  font-size: 30px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.purpose-list-text {
+  font-size: 25px;
+  color: #fff;
+  font-weight: 400;
+  text-align: left;
 }
 
 .section-title {
@@ -353,7 +365,7 @@ svg.icon.icon-right-arrow {
 }
 
 .day-one {
-  //background-image: url(./images/ufo.png?7d539baef6583c3aed7e55ca7c2b7e10);
+  background-image: url(./images/logo_white.svg?7d539baef6583c3aed7e55ca7c2b7e10);
   background-repeat: no-repeat;
   background-position: top left;
   background-size: contain;
@@ -382,6 +394,12 @@ svg.icon.icon-right-arrow {
     font-size: 35px;
   }
   .big-text + p {
+    font-size: 12px;
+  }
+  .purpose-text {
+    font-size: 14px;
+  }
+  .purpose-list-text {
     font-size: 12px;
   }
   .small-cta {
