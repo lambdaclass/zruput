@@ -1,46 +1,43 @@
 # Zruput
 
-Zruput is a Digital Communicactions Conference that will take place on Friday 14th of June in Buenos Aires, Argentina, specifically in Ciudad Cultural Konex, Sarmiento 3131.
+Zruput es una conferencia de Comunicaciones Digitales.
 
-![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
+Su primera edición tendrá lugar el viernes 14 de Junio en [CCKonex](https://www.cckonex.org/), Buenos Aires, Argentina.
 
-Buy your ticket at [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-57829836598).
+![Zruput Logo](logo_negro_en_degrade.png)
 
-## Purpose
+Las entradas están a la venta en [eventbrite](https://www.eventbrite.com.ar/e/zruput-tickets-57829836598).
 
-Technology advances have allowed many disciplines tangentially related to Digital Communications
-to be linked directly.
-Nowadays, the majority of the projects of this field demands articulation of workers,
-researchers, entrepreneurs and students of:
+## Propósito
 
-* RF Hardware and antennas design.
-* Modern software practices: VCS, CI, TDD, containers, etc.
-* Communication protocols.
-* Digital processing architectures, like FPGA.
-* EMI
-* Signal digital processing, modulation and codification.
-* Embedded systems design.
+Las nuevas exigencias sobre las telecomunicaciones que la sociedad ha alcanzado
+y el desarrollo tecnológico que intenta satisfacerlas han dado nacimiento a
+un ecosistema que se caracteriza por combinar los tradicionales rubros de
+infraestructura de transmisión de señales con el diseño y producción de hardware de bajo costo,
+la adopción de protocolos abiertos, las prácticas modernas de desarrollo de software
+y el estudio de impacto social, entre muchas otras disciplinas.
 
-Zruput is a space for professionals, researchers, entrepreneurs and students who are interested in  these topics:
+Esta conferencia será un espacio inédito de exposición, discusión y articulación
+para las personas que trabajan, investigan, emprenden, se forman y resuelven problemas en este nuevo ecosistema.
 
-* Software Defined Radio
-* Satellite Communications
-* LPWAN platforms and technologies
-* Mesh networks
-* IoT
-* Electromagnetic Spectrum Ecosystem
-* Amateur Radio
-* Optical Communications
-* Cognitive Radio
-* RF & Antennas
-* Fiber optics
-* Signal classification
-* Digital Broadcasting
-* Modulation and Codification Schemes
-* SETI
+A modo orientativo, a continuación se lista algunos de los temas de interés, sin pretensión de ser exhaustiva:
+* Estudio del crecimiento de la demanda de datos de internet.
+* Aplicaciones de redes de sensores inteligentes.
+* Nuevas posibilidades con hardware abierto de bajo costo (SDR, IoT, etc.)
+* Protocolos de comunicación.
+* Integración de las redes sociales con las nuevas tecnologías de conectividad.
+* Redes mesh.
+* Comunicaciones Satelitales.
+* Diseño de antenas e infraestructura para uso compartido eficiente del espectro RF.
+* Prácticas modernas y ágiles de desarrollo de software (VCS, CI, TDD, etc.) aplicadas a proyectos intensivos en hardware.
+* Comunicaciones ópticas (fibras, láser, satélites, etc.)
+* Posibilidades del uso amateur del espectro electromagnético.
+* Arquitecturas de procesamiento digital (DSP, FPGA, etc.) y sistemas embebidos.
+* Compatibilidad EM.
+* Nuevas técnicas de procesamiento, modulación y codificación digital de señales (Cognitive radio, etc.)
 
 
-## Speakers
+## Exposiciones
 
 ### Santiago Piccinini, from Altermundi
 
@@ -71,7 +68,6 @@ high volume download of data.
 IoT: State of the art, challenges and what nobody tells you about working with the Internet of Things.
 
 ![Sebastián García Marra](images/speaker/sgmarra.jpg)
-
 
 
 ## Format
