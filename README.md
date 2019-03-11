@@ -63,16 +63,16 @@ high volume download of data.
 
 ![Francisco Albani](images/speaker/falbani.jpg)
 
-## Sebastián García Marra, Co-Founder of LESS
+### Sebastián García Marra, Co-Founder of LESS
 
 IoT: State of the art, challenges and what nobody tells you about working with the Internet of Things.
 
 ![Sebastián García Marra](images/speaker/sgmarra.jpg)
 
 
-## Federico La Rocca, Universidad de la República
+### Federico La Rocca, Universidad de la República
 
-**TV digital libre: transmisión y recepción de ISDB-T con SDR.**
+TV digital libre: transmisión y recepción de ISDB-T con SDR.
 
 ![Federico La Rocca](images/speaker/flarocca.png)
 
