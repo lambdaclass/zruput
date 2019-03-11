@@ -76,12 +76,6 @@ TV digital libre: transmisión y recepción de ISDB-T con SDR.
 
 ![Federico La Rocca](images/speaker/flarocca.png)
 
-Casi todos los países de Latinoamérica han adoptado el estándar ISDB-T para las transmisiones de Televisión Digital por aire. Aunque el "apagón analógico" no se ha llevado a cabo todavía y la transición de analógico a digital tiene diversos niveles de avance en la región, es un hecho que la televisión de aire sigue siendo uno de los principales medios de comunicación.
-
-Una limitante importante en la transición se puede encontrar tanto en temas técnicos como de costos: no se logra ser experto en un tema si no se trabaja con implementaciones reales, y equipos específicos para televisión digital son altamente costosos. En este sentido, discutiremos cómo SDR (Radio Definida por Software) puede ser una excelente herramienta para atacar estos problemas.
-
-La charla presentará gr-isdbt, un módulo para GNU Radio que permite recibir y transmitir televisión digital en el estándar ISDB-T, y que desarrolláramos en el Instituto de Ingeniería Eléctrica (Facultad de Ingeniería, UdelaR). El módulo permite por ejemplo realizar varias mediciones sobre la señal recibida (estimación del canal, BER, MER, etc.), o simular un sistema completo de transmisión y recepción (lo que permite por ejemplo optimizar los parámetros detransmisión para cierto canal). El sistema es además libre y abierto, lo que a su vez permite sustituir o modificar bloques, habilitando no solo el aprendizaje sino también el desarrollo y la investigación (ver https://github.com/git-artes/gr-isdbt). Esto además de, por supuesto, permitir ver la novela de la tarde o transmitir tus propios videos de gatos.
-
 
 ## Format
 
