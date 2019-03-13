@@ -63,11 +63,19 @@ high volume download of data.
 
 ![Francisco Albani](images/speaker/falbani.jpg)
 
+
 ### Sebastián García Marra, Co-Founder of LESS
 
 IoT: State of the art, challenges and what nobody tells you about working with the Internet of Things.
 
 ![Sebastián García Marra](images/speaker/sgmarra.jpg)
+
+
+### Mariela Fiorenzo, STEM specialist in Telecom Argentina
+
+Evolución de los patrones de uso de internet y nuevas formas móviles de consumir TV.
+
+![Mariela Fiorenzo](images/speaker/mfiorenzo.jpeg)
 
 
 ### Federico La Rocca, Universidad de la República
