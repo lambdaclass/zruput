@@ -92,8 +92,8 @@ TV digital libre: transmisión y recepción de ISDB-T con SDR.
 
 ## Deadlines
 
-* Call for presentations closes: April 1st, 2019
-* Speakers notified and program announced: April 15th, 2019
+* Call for presentations closes: May 1st, 2019
+* Speakers notified and program announced: May 15th, 2019
 
 
 ## Admission and Travel
