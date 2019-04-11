@@ -87,7 +87,7 @@ TV digital libre: transmisión y recepción de ISDB-T con SDR.
 
 ## Format
 
-30 minutes long talks.
+30-minute long talks.
 
 
 ## Deadlines
