@@ -365,7 +365,7 @@ svg.icon.icon-right-arrow {
 }
 
 .day-one {
-  background-image: url(./images/logo_white.svg?7d539baef6583c3aed7e55ca7c2b7e10);
+  /*background-image: url(./images/logo_white.svg?7d539baef6583c3aed7e55ca7c2b7e10);*/
   background-repeat: no-repeat;
   background-position: top left;
   background-size: contain;
