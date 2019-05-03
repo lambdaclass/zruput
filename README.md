@@ -112,12 +112,21 @@ Digital pre-distortion.
 * **Subtitle:** Técnicas de comunicaciones para medición de materiales.
 * **Description:** Low cost Optical Laser Interferometer based in SDR.
 
-![Lucas Riobó](images/speaker/lriobo.png)
+![Lucas Riobó](images/speaker/lriobo.jpg)
 
 
 ### Alan Vivares & Santiago Buczak, from Satellogic & RCA
 
-...
+* **Title:** Proyecto TASSAT
+* **Subtitle:** experimento educativo de radioaficionados para la transmisión de señales de radio desde satélites.
+
+* **Description:**
+
+TASSAT (Text And Speech Satellite Experiment), es un proyecto que consiste en una plataforma de software abierto que fomenta el conocimiento y entusiasmo por la actividad espacial en la comunidad amateur alojado en un Satélite de órbita baja.
+La función de la carga útil secundaria es producir experimentos en un satélite de órbita baja que permiten a los estudiantes y aficionados a desarrollar sus propios experimentos que se transmiten a Tierra a través de radio en la banda de VHF, en un hardware asequible, para poder luego probar ese código en el espacio.
+
+![Santi y Alan](images/speaker/sbuczak_avivares.jpg)
+
 
 ## Format
 
