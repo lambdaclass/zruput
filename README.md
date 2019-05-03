@@ -85,6 +85,43 @@ TV digital libre: transmisión y recepción de ISDB-T con SDR.
 ![Federico La Rocca](images/speaker/flarocca.png)
 
 
+### Andrea Reschini, from IEEE-WIE
+
+* **Title:** Fibras que nos conectan.
+* **Subtitle:** buceando la capa cero, en alta velocidad y a todo color.
+
+* **Description:** las comunicaciones a través de Fibras Ópticas terrestres y submarinas, presentan grandes desafíos, dando lugar a innovaciones muy interesantes. La longitud de onda como dimensión en la multiplexación de señales es un aspecto activador de tecnologías para desarrollar "la capa cero" de servicios en constante evolución, y la determinación de modelos de negocio específicos.
+    * El medio óptico. Propagación de la luz. Dimensiones en la multiplexación de señales
+    * DWDM - Dense Wavelength Division Multiplexing: Nociones básicas y componentes
+    * Algunos hits tecnológicos: Amplificación Raman, Detección Coherente, Topologías, otros
+    * Lambdas en el mar: Generalidades de comunicaciones ópticas submarinas. El mapa de cables y players.
+
+![Andrea Reschini](images/speaker/areschini.png)
+
+
+### Juan Cristi, INTI
+
+Digital pre-distortion.
+
+![Juan Cristi](images/speaker/jcristi.png)
+
+
+### Lucas Riobó, UBA Facultad de Ingeniería GLOmAe CONICET
+
+* **Title:** Cuando el canal es más importante que el mensaje.
+* **Subtitle:** Técnicas de comunicaciones para medición de materiales.
+* **Description:** RTL-SDR Based Optical Laser Interferometer Implementation
+
+Optical Interferometry is a family of techniques in which the superposition of electromagnetic waves (in the optical range of the spectrum), cause the phenomenon of interference in order to extract information. In this work, we implement an optical heterodyne interferometer.
+ooptical interferometer that interfaces with an RTL-SDR dongle via a wideband optoelectronic front-end. This allows the optical data to be translated into an RF signal which can then easily be analysed with the low cost RTL-SDR
+
+![Lucas Riobó](images/speaker/lriobo.png)
+
+
+### Alan Vivares & Santiago Buczak, from Satellogic & RCA
+
+...
+
 ## Format
 
 30-minute long talks.
@@ -92,7 +129,7 @@ TV digital libre: transmisión y recepción de ISDB-T con SDR.
 
 ## Deadlines
 
-* Call for presentations closes: May 1st, 2019
+* ~Call for presentations closes: May 1st, 2019~
 * Speakers notified and program announced: May 15th, 2019
 
 
