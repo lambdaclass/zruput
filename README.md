@@ -110,10 +110,7 @@ Digital pre-distortion.
 
 * **Title:** Cuando el canal es más importante que el mensaje.
 * **Subtitle:** Técnicas de comunicaciones para medición de materiales.
-* **Description:** RTL-SDR Based Optical Laser Interferometer Implementation
-
-Optical Interferometry is a family of techniques in which the superposition of electromagnetic waves (in the optical range of the spectrum), cause the phenomenon of interference in order to extract information. In this work, we implement an optical heterodyne interferometer.
-ooptical interferometer that interfaces with an RTL-SDR dongle via a wideband optoelectronic front-end. This allows the optical data to be translated into an RF signal which can then easily be analysed with the low cost RTL-SDR
+* **Description:** Low cost Optical Laser Interferometer based in SDR.
 
 ![Lucas Riobó](images/speaker/lriobo.png)
 
